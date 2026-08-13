@@ -52,11 +52,6 @@ Feel free to reach out for new projects, consulting, or technical collaborations
 
 ---
 
-### 📫 Let's Connect
-Feel free to reach out for new projects, consulting, or technical collaborations.
-
-- **Email:** [willmarischka@gmail.com]
-
 <br>
 
 ---
