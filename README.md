@@ -49,3 +49,19 @@ I build scalable digital solutions, from institutional financial dashboards to c
 Feel free to reach out for new projects, consulting, or technical collaborations.
 
 - **Email:** [willmarischka@gmail.com]
+
+---
+
+### 📫 Let's Connect
+Feel free to reach out for new projects, consulting, or technical collaborations.
+
+- **Email:** [willmarischka@gmail.com]
+
+<br>
+
+---
+
+<!-- Profile Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WillMarischka-Dev&color=00c7b7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
